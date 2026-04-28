@@ -8,7 +8,9 @@
 
 ![Three-Tier Banner](assets/Three-Tier.gif).
 
-![App Screenshot](./assets/Jenkins Project Diagram.png)
+![App Screenshot](assets/Jenkins Project Diagram.png).
+
+![alt text](image-url).
 
 Welcome to the Three-Tier Web Application Deployment project! 🚀
 
