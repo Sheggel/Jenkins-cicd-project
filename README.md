@@ -10,7 +10,7 @@
 
 ![App Screenshot](assets/Jenkins Project Diagram.png).
 
-![alt text](image-url).
+![alt text](https://github.com/Sheggel/Jenkins-cicd-project/blob/0b5c8dfaed07b24ac0c73ee2e43185091925e8a0/assets/Jenkins%20Project%20Diagram.png).
 
 Welcome to the Three-Tier Web Application Deployment project! 🚀
 
